@@ -1,4 +1,4 @@
-### [View the GitHub page here.](https://dacuteraccoon.github.io/ft-syntax-highlight/)<br/>
+### [View the GitHub page here.](https://dacuteraccoon.github.io/ft-syntax-highlight-pages/)<br/>
 ### [View the original version here.](https://github.com/soulshined/ft-syntax-highlight/)
 
 # ft-syntax-highlight
