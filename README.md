@@ -1,3 +1,6 @@
+### [View the GitHub page here.](https://dacuteraccoon.github.io/ft-syntax-highlight/)<br/>
+### [View the original version here.](https://github.com/soulshined/ft-syntax-highlight/)
+
 # ft-syntax-highlight
 A lightweight, **pure CSS** syntax-highlighter; no Javascript required. A syntax-highlighter with 8 custom built-in UI themes like dark, light, simple, burberry, midnight, bootstrap and more! Common-sense tagging, line numbers and custom, pure CSS tooltips for identifying elements! Supports all major browsers and HTML versions. Made specifically for those pure CSSers like me!
 
